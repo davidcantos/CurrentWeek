@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Semana Actual</string>
+    <string name="currentweek">¿Cúal es la Semana Actual?</string>
+    <string name="check">Comprueba</string>
+    <string name="emptyweek">La Semana Actual no puede estar vacía</string>
+    <string name="notnumber">No es un número entre 1 y 52</string>
+    <string name="ok">Correcto!!</string>
+    <string name="bad">Has fallado, vuelve a intentarlo !!</string>
+    <string name="startagain">Vuelve a empezar</string>
+    <string name="tryagain">Vuelve a intentarlo</string>
+</resources>

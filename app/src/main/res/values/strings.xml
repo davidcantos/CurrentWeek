@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Current Week</string>
+    <string name="currentweek">What\'s the Current Week Number?</string>
+    <string name="check">Check</string>
+    <string name="emptyweek">The Current Week can\'t be empty</string>
+    <string name="notnumber">Isn\'t a Number between 1 and 52</string>
+    <string name="ok">Right!!</string>
+    <string name="bad">You have failed, try again !!</string>
+    <string name="tryagain">Try Again</string>
+    <string name="startagain">Start Again</string>
+</resources>
